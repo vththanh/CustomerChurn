@@ -7,7 +7,7 @@ Dự án này thực hiện phân tích dữ liệu nhằm:
 - Làm sạch và trực quan hóa dữ liệu.
 - Xây dựng mô hình học máy dự đoán khả năng rời bỏ.
 - Hỗ trợ doanh nghiệp ra quyết định sớm để giảm tỷ lệ rời bỏ khách hàng.
-  ## Tài nguyên sử dụng
+## Tài nguyên sử dụng
 - Bộ dữ liệu: **Telco Customer Churn** 
 - Ngôn ngữ: Python
 - Thư viện: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, v.v.
